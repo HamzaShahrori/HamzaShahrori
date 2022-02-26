@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hamza</h1>
 <h3 align="center">A passionate full-stack developer from jordan</h3>
-
+ <img width=200px height=200px src="https://media.istockphoto.com/vectors/safe-house-gradient-icon-vector-id1352036690?k=20&m=1352036690&s=612x612&w=0&h=9mErdZvi0yxqa26ZCKzTGlSw31NqFqUwaqvgIBGdfek=" alt="Project logo">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzashahrori&label=Profile%20views&color=0e75b6&style=flat" alt="hamzashahrori" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamzashahrori" alt="hamzashahrori" /></a> </p>
