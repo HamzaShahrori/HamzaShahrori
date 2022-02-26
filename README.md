@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hamza</h1>
 <h3 align="center">A passionate full-stack developer from jordan</h3>
- <img width=200px height=200px src="https://onedrive.live.com/?authkey=%21AFbCQULtL1lpFFw&cid=08E6421886E7A0D2&id=8E6421886E7A0D2%21129&parId=root&o=OneUp" alt="Project logo">
+ <img width=200px height=200px src="https://imageio.forbes.com/blogs-images/forbestechcouncil/files/2019/01/canva-photo-editor-8-7.jpg?fit=bounds&format=jpg&width=960" alt="header">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzashahrori&label=Profile%20views&color=0e75b6&style=flat" alt="hamzashahrori" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamzashahrori" alt="hamzashahrori" /></a> </p>
